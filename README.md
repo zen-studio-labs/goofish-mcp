@@ -394,7 +394,7 @@ Requests go to Apify's hosted MCP server and run on your Apify account. Apify's 
 
 ## More from Zen Studio
 
-Goofish MCP is built on [Zen Studio's Apify Actors](https://apify.com/zen-studio). You can also run each tool directly on Apify, from its API, or on a schedule.
+Goofish MCP is built on [Zen Studio's Apify Actors](https://apify.com/zen-studio). You can also run each tool directly on Apify, from its API, or on a schedule. For Xiaohongshu (小红书) notes, comments and creators, see [RedNote MCP](https://github.com/zen-studio-labs/rednote-xiaohongshu-mcp).
 
 ## License
 
