@@ -1,0 +1,34 @@
+{
+  "name": "goofish-mcp",
+  "owner": {
+    "name": "Zen Studio",
+    "url": "https://github.com/zen-studio-labs"
+  },
+  "metadata": {
+    "description": "Goofish (Xianyu, 闲鱼) marketplace tools and skill for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "goofish",
+      "source": "./",
+      "description": "Search Goofish (Xianyu, 闲鱼) second-hand listings, read item details, seller profiles, reviews and comments, and find listings by photo.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Zen Studio"
+      },
+      "homepage": "https://github.com/zen-studio-labs/goofish-mcp",
+      "license": "MIT",
+      "keywords": [
+        "goofish",
+        "xianyu",
+        "闲鱼",
+        "idlefish",
+        "second-hand",
+        "used marketplace",
+        "china",
+        "mcp"
+      ],
+      "category": "data"
+    }
+  ]
+}

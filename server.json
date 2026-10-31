@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.zen-studio-labs/goofish-mcp",
+  "title": "Goofish (Xianyu) Marketplace",
+  "description": "Goofish (Xianyu, 闲鱼) second-hand listings, item details, seller reviews, comments, image search.",
+  "repository": {
+    "url": "https://github.com/zen-studio-labs/goofish-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apify.com/?tools=fetch-actor-details,get-actor-run,get-dataset-items,get-dataset-list,zen-studio/goofish-xianyu-search-scraper,zen-studio/goofish-xianyu-item-detail-scraper,zen-studio/goofish-xianyu-seller-scraper,zen-studio/goofish-xianyu-visual-search-scraper,zen-studio/goofish-xianyu-item-comments-scraper",
+      "headers": [
+        {
+          "name": "Authorization",
+          "description": "Optional when your client supports Apify OAuth sign-in. Otherwise 'Bearer <APIFY_TOKEN>'.",
+          "isRequired": false,
+          "isSecret": true
+        }
+      ]
+    }
+  ]
+}

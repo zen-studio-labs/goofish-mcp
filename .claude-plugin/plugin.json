@@ -1,0 +1,23 @@
+{
+  "name": "goofish",
+  "version": "0.1.0",
+  "description": "Search Goofish (Xianyu, 闲鱼) second-hand listings, read item details, seller profiles, reviews and comments, and find listings by photo.",
+  "author": {
+    "name": "Zen Studio",
+    "url": "https://github.com/zen-studio-labs"
+  },
+  "homepage": "https://github.com/zen-studio-labs/goofish-mcp",
+  "repository": "https://github.com/zen-studio-labs/goofish-mcp",
+  "license": "MIT",
+  "keywords": [
+    "goofish",
+    "xianyu",
+    "闲鱼",
+    "idlefish",
+    "second-hand",
+    "used marketplace",
+    "china",
+    "mcp"
+  ],
+  "privacyPolicyUrl": "https://docs.apify.com/legal/privacy-policy"
+}

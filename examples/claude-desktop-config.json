@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "goofish": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.apify.com/?tools=fetch-actor-details,get-actor-run,get-dataset-items,get-dataset-list,zen-studio/goofish-xianyu-search-scraper,zen-studio/goofish-xianyu-item-detail-scraper,zen-studio/goofish-xianyu-seller-scraper,zen-studio/goofish-xianyu-visual-search-scraper,zen-studio/goofish-xianyu-item-comments-scraper"]
+    }
+  }
+}
